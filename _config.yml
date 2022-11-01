@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: '/assets/img/ishu.jpg'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/ishu.jpg'
+avatar: 'https://github.com/0xchmodx1sh/0xchmodx1sh.github.io/blob/main/assets/img/ishu.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
